@@ -1,2 +1,2 @@
 # 82fisher
-Shit code good idea
+good idea
